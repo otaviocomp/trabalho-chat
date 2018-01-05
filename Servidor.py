@@ -1,5 +1,3 @@
-#Felipe Ferreira Barbosa
-#Otavio do Espirito Santo
 from socket import * # sockets
 import threading # threadss
 import time
