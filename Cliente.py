@@ -1,5 +1,3 @@
-#Felipe Ferreira Barbosa
-#Otavio do Espirito Santo
 from getpass import getpass
 from socket import *
 import threading 
